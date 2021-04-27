@@ -1,5 +1,5 @@
 # enjoy-mvc
 
-Small PHP MVC Framework.
+Small footprint PHP MVC Framework.
 
 More info coming soon...
